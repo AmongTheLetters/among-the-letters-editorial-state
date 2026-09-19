@@ -1,0 +1,15 @@
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tmp
+*.bak
+~$*
+
+# Do not accidentally publish draft/export files
+*.docx
+*.pdf
+*.zip
+.env
+.env.*
